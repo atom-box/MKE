@@ -1,4 +1,15 @@
 # Why Elm
+
+## Please grab a handout
+
+## Install Elm:
+
+	`npm install -g elm elm-format elm-repl`  
+
+<quote from Brad Grzesiak, CEO of Bendyworks in Madison:>
+ "...JavaScript is troublesome, it is designed to swallow errors and move on – something that we know is a wrong idea in programming!  Elm is an exciting language. It aims its scissors squarely at the knot of complexity that is frontend development, bringing the benefits of: static typing, functional programming, and purity.  "
+
+
 ## Resources
 Overview: http://elm-lang.org/ <br/>
 Examples: https://github.com/evancz/elm-architecture-tutorial<br/>
@@ -8,24 +19,35 @@ Intermediate: https://guide.elm-lang.org/ <br/>
 Advanced: https://github.com/izdi/elm-cheat-sheet<br/>
 Connection to Elixir: https://hackernoon.com/elmchemy-write-type-safe-elixir-code-with-elms-syntax-part-1-introduction-8968b76d721d <br/>
 Bruce Tate: https://pragprog.com/book/7lang/seven-more-languages-in-seven-weeks <br/><br/>
+Elm, in production, at IBM: https://discourse.elm-lang.org/t/ibm-releases-elm-powered-app/2364
 
-## Please grab a handout
 
-## Install Elm:
+< Hello I was a computer science teacher mostly in high schools and mostly in  New York City.  Now I test software in Madison.   This summer I started building small things in Elm.  It was my first functional language.  It was also my first use of Model-Update-View.  This is a talk for beginners.  I can show what I have learned so far. > 
 
-	`npm install -g elm elm-format elm-repl`  
+
+
+## Preview
+1
+2
+3
+4 Build.
+
+<show the dreamcatcher image>
+
+
 
 ## Minification
 https://guide.elm-lang.org/optimization/asset_size.html
 I think I can live demo that.
 
-## Directions to pursue
+## Summary
+<Image of houses on my street.  Every street has a mix of styles.  My street was built in 1955.  Where is Elm in this picture?  >
 
 ## Acknowledgements
 MCC, UMW
 We are our own cleaning crew.
 
-## to do:
+# to do:
 Make handouts on better paper this time, not library paper
 
 Make the bundled zip clonable stuff for folks
