@@ -1,4 +1,19 @@
 # Why Elm
+## Resources
+Overview: http://elm-lang.org/ <br/>
+Examples: https://github.com/evancz/elm-architecture-tutorial<br/>
+Beginner: https://elmprogramming.com/<br/>
+Beginner: https://css-tricks.com/introduction-elm-architecture-build-first-application/<br/>
+Intermediate: https://guide.elm-lang.org/ <br/>
+Advanced: https://github.com/izdi/elm-cheat-sheet<br/>
+Connection to Elixir: https://hackernoon.com/elmchemy-write-type-safe-elixir-code-with-elms-syntax-part-1-introduction-8968b76d721d <br/>
+Bruce Tate: https://pragprog.com/book/7lang/seven-more-languages-in-seven-weeks <br/><br/>
+
+## Please grab a handout
+
+## Install Elm:
+
+	`npm install -g elm elm-format elm-repl`  
 
 ## Minification
 https://guide.elm-lang.org/optimization/asset_size.html
@@ -26,3 +41,9 @@ History browser
 Actual MD to present
 
 Flash cards all the time, post its on top of postits
+Todo:
+* grab a pointer
+
+* have a time strategy so you run short, not long
+
+* save handout as pdf for Kinkos
