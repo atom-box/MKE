@@ -1,18 +1,15 @@
-# Why Elm
+# A Compiler for the Front End: Intro to Elm
 
-## Please grab a handout
+## Handouts are near the door.   
 
-## Install Elm:
+## You can try installing Elm now:
 
 	`npm install -g elm elm-format elm-repl`  
 
 
 
-
-
-
-<quote from Brad Grzesiak, CEO of Bendyworks in Madison:>
- "...JavaScript is troublesome, it is designed to swallow errors and move on – something that we know is a wrong idea in programming!  Elm is an exciting language. It aims its scissors squarely at the knot of complexity that is frontend development, bringing the benefits of: static typing, functional programming, and purity.  "
+ _ "...JavaScript is troublesome, it is designed to swallow errors and move on – something that we know is a wrong idea in programming!  Elm is an exciting language. It aims its scissors squarely at the knot of complexity that is frontend development, bringing the benefits of: static typing, functional programming, and purity.  " _
+ -Brad Grzesiak, CEO of Bendyworks
 
 
 ## Resources
