@@ -11,9 +11,13 @@
  _"...JavaScript is troublesome, it is designed to swallow errors and move on – something that we know is a wrong idea in programming!  Elm is an exciting language. It aims its scissors squarely at the knot of complexity that is frontend development, bringing the benefits of: static typing, functional programming, and purity."_
  -Brad Grzesiak, CEO of Bendyworks
 
-![Javascript Ecosystem](images/js.png)
-![Thank you sponsors!](images/sponsor.png)
-![That is huge](images/sponsorThat.png)
+![Javascript Ecosystem](images/js.png) 
+The
+
+![Thank you sponsors!](images/smallSponsors.png)
+The 
+![That is huge](images/smallThat.png)
+
 ![Javascript Ecosystem](images/arrayBad.png)
 ![Javascript Ecosystem](images/arrayGood.png)
 ![Javascript Ecosystem](images/notAFunction.png)
