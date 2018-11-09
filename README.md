@@ -16,7 +16,7 @@ The
 
 ![Thank you sponsors!](images/smallSponsors.png)
 The 
-![That is huge](images/smallThat.png)
+![That is huge](images/dream.png)
 
 ![Javascript Ecosystem](images/arrayBad.png)
 ![Javascript Ecosystem](images/arrayGood.png)
