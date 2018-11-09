@@ -5,14 +5,12 @@
 ## You can try installing Elm now:
 
 	`npm install -g elm elm-format elm-repl`  
-
-
-
+<br><br>
  _"...JavaScript is troublesome, it is designed to swallow errors and move on – something that we know is a wrong idea in programming!  Elm is an exciting language. It aims its scissors squarely at the knot of complexity that is frontend development, bringing the benefits of: static typing, functional programming, and purity."_
  -Brad Grzesiak, CEO of Bendyworks
+<br><br><br><br><br><br><br><br><br><br>
+![Javascript](images/js.png) 
 
-![Javascript Ecosystem](images/js.png) 
-The
 
 ![Thank you sponsors!](images/smallSponsors.png)
 The 
