@@ -5,9 +5,6 @@
 ## You can try installing Elm now:
 
 	`npm install -g elm elm-format elm-repl`  
-<br><br>
- _"...JavaScript is troublesome, it is designed to swallow errors and move on – something that we know is a wrong idea in programming!  Elm is an exciting language. It aims its scissors squarely at the knot of complexity that is frontend development, bringing the benefits of: static typing, functional programming, and purity."_
- -Brad Grzesiak, CEO of Bendyworks
 
 ## Resources
 Overview: http://elm-lang.org/ <br/>
@@ -22,6 +19,11 @@ Elm, in production, at IBM: https://discourse.elm-lang.org/t/ibm-releases-elm-po
 Try Elm, without installing anything: https://ellie-app.com/new
 Installing Elm: the tutorials above have more details, but, if you already have Node.js and NPM, try typing npm install -g elm 
 Videos: search online "Why Elm?" 
+
+<br><br>
+ _"...JavaScript is troublesome, it is designed to swallow errors and move on – something that we know is a wrong idea in programming!  Elm is an exciting language. It aims its scissors squarely at the knot of complexity that is frontend development, bringing the benefits of: static typing, functional programming, and purity."_
+ -Brad Grzesiak, CEO of Bendyworks
+
 
 Todo:
 * grab a pointer
