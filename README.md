@@ -1,6 +1,5 @@
 # A Compiler for the Front End: Intro to Elm
-
-## Handouts are near the door.   
+  
 
 ## You can try installing Elm now:
 
