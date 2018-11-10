@@ -6,6 +6,11 @@
 
 	`npm install -g elm elm-format elm-repl`  
 
+
+
+
+
+
 <quote from Brad Grzesiak, CEO of Bendyworks in Madison:>
  "...JavaScript is troublesome, it is designed to swallow errors and move on – something that we know is a wrong idea in programming!  Elm is an exciting language. It aims its scissors squarely at the knot of complexity that is frontend development, bringing the benefits of: static typing, functional programming, and purity.  "
 
@@ -67,7 +72,7 @@ Questions about Beyond Compare I can answer too.
 ## Acknowledgements
 MCC, UMW
 We are our own cleaning crew.
-
+[image: code.org statistic]
 # to do:
 Make handouts on better paper this time, not library paper
 
